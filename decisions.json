@@ -1,0 +1,14 @@
+{
+    "decisions": [
+        {
+            "app_id": "APP1",
+            "decision": "shortlisted",
+            "timestamp": "2024-12-26 10:57:27.874999"
+        },
+        {
+            "app_id": "APP2",
+            "decision": "rejected",
+            "timestamp": "2025-01-11 00:14:19.912828"
+        }
+    ]
+}
